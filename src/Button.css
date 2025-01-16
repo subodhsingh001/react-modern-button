@@ -1,0 +1,23 @@
+/* Default styles for the button */
+.default-button {
+    display: inline-block; /* Inline-block for consistent width */
+    text-align: center;
+    font-weight: bold;
+    line-height: 1.5;
+  }
+  
+  .default-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.5);
+  }
+  
+  .default-button:hover {
+    opacity: 0.9;
+  }
+  
+  .default-button:disabled {
+    background-color: #e0e0e0;
+    color: #999;
+    cursor: not-allowed;
+  }
+  

@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "ESNext",
+      "jsx": "react",
+      "declaration": true,
+      "outDir": "dist",
+      "strict": true,
+      "esModuleInterop": true,
+      "importHelpers": true,   // Use tslib for helper functions
+      "skipLibCheck": true
+    },
+    "include": ["src"]
+  }
+  
