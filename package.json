@@ -1,6 +1,6 @@
 {
   "name": "react-modern-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, reusable button component for React and Next.js",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -23,6 +23,7 @@
     "react",
     "button",
     "nextjs",
+    "modern",
     "ui",
     "component"
   ],

@@ -16,6 +16,7 @@ A simple, reusable, and customizable button component for React and Next.js. Des
 - Optimized for React and Next.js.
 - Lightweight and tree-shaking friendly.
 - Simple to use and extend.
+"keywords": ["react", "button", "modern", "UI"]
 
 ---
 
