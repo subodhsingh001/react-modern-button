@@ -1,5 +1,9 @@
 🔥 Quick Start
 Here's how to get started with react-modern-button:
+<<<<<<< HEAD
+=======
+
+>>>>>>> a4d18f0 (third commit)
 import React from "react";
 import { Button } from "react-modern-button";
 import "react-modern-button/dist/index.css"; // Import default styles
