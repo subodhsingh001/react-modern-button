@@ -1,10 +1,6 @@
 🎨 Customization Examples
 Using Props
 Customize buttons with built-in props:
-
-jsx
-Copy
-Edit
 import React from "react";
 import { Button } from "react-modern-button";
 
