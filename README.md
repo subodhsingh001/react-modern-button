@@ -25,3 +25,14 @@ npm install react-modern-button
 yarn add react-modern-button
 
 
+
+## 📖 Documentation
+
+Explore the documentation:
+
+- [Installation Guide](https://github.com/subodhsingh001/docs/installation.md)
+- [Quick Start](https://github.com/subodhsingh001/docs/quick-start.md)
+- [Customization](https://github.com/subodhsingh001/docs/customization.md)
+- [API Reference](https://github.com/subodhsingh001/docs/api-reference.md)
+
+
