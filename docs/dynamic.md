@@ -1,5 +1,8 @@
+
 import React from "react";
+
 import { Button } from "react-modern-button";
+
 
 const buttonData = [
   { id: 1, label: "Button 1", color: "primary" },
@@ -8,8 +11,11 @@ const buttonData = [
 ];
 
 const App = () => (
-  <div>
+
+  <>
+  
     <h1>Dynamic Buttons</h1>
+    
     {buttonData.map((button) => (
       <Button
         key={button.id}
@@ -18,7 +24,9 @@ const App = () => (
         onClick={() => alert(`${button.label} clicked!`)}
       />
     ))}
-  </div>
+    
+  </>
+  
 );
 
 export default App;
